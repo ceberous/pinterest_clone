@@ -14,7 +14,8 @@ gem 'haml'
 gem 'simple_form'
 gem 'paperclip'
 gem 'masonry-rails'
-
+gem 'modernizr-rails'
+gem 'acts_as_votable'
 
 gem 'jquery-rails'
 gem 'turbolinks'
