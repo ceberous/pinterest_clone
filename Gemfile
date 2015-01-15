@@ -13,6 +13,7 @@ gem 'autoprefixer-rails'
 gem 'haml'
 gem 'simple_form'
 gem 'paperclip'
+gem 'masonry-rails'
 
 
 gem 'jquery-rails'
